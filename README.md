@@ -17,13 +17,13 @@
 - 🌱 I’m currently learning **React** and **Next.js**.
 - 💻 I’m interested in creating clean, useful, and user-friendly web experiences.
 - 🤝 I’m open to collaborating on beginner-friendly and educational projects.
-- 🚀 My goal is to grow into a capable full-stack developer.
+- 🚀 My goal is to grow into a capable full-stack developer, and to be an entrepreneur!
 - 📫 You can reach me at **[fikripricahyadi10@gmail.com](mailto:fikripricahyadi10@gmail.com)**.
 
 ## Technologies I’m Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,git,github,vscode" alt="HTML, CSS, JavaScript, React, Next.js, Git, GitHub, and VS Code" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,git,github,python" alt="HTML, CSS, JavaScript, React, Next.js, Git, GitHub, and Python" />
 </p>
 
 ## Current Focus
@@ -36,7 +36,7 @@
 
 ## Featured Projects
 
-I’m currently building my portfolio of projects while learning React and Next.js. Check back soon for projects, experiments, and learning milestones.
+I’m currently building my portfolio of projects while learning React and Next.js.
 
 ## Goals
 
@@ -47,7 +47,3 @@ I’m currently building my portfolio of projects while learning React and Next.
 - Create software that is useful to others.
 
 ---
-
-<p align="center">
-  Thanks for visiting my profile! ⭐
-</p>

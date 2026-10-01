@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm R. Wan Fikri Pricahyadi 👋</h1>
+<h1 align="center">Hi, I'm R. Wan Fikri Pricahyadi 👋</h1>
 
 <p align="center">
   Student Developer · Web Development Enthusiast · Lifelong Learner
@@ -13,40 +13,38 @@
 
 ## About Me
 
-- 🎓 I’m currently a student passionate about software development.
+- 🎓 I’m a student developer building my foundation in software development.
 - 🌱 I’m currently learning **React** and **Next.js**.
-- 💻 I enjoy building websites and exploring modern web technologies.
-- 🚀 I’m working toward becoming a better full-stack developer.
+- 💻 I’m interested in creating clean, useful, and user-friendly web experiences.
 - 🤝 I’m open to collaborating on beginner-friendly and educational projects.
-- 📫 Contact me at **fikripricahyadi10@gmail.com**
+- 🚀 My goal is to grow into a capable full-stack developer.
+- 📫 You can reach me at **[fikripricahyadi10@gmail.com](mailto:fikripricahyadi10@gmail.com)**.
 
 ## Technologies I’m Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,git,github,vscode" alt="Technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,git,github,vscode" alt="HTML, CSS, JavaScript, React, Next.js, Git, GitHub, and VS Code" />
 </p>
 
-## Projects
+## Current Focus
 
-| Project | Description | Technologies |
-|---|---|---|
-| [Project Name](https://github.com/R1Blmmakan) | Add a short description of your project here. | React, JavaScript |
-| [Project Name](https://github.com/R1Blmmakan) | Add another project you have built or are currently learning from. | HTML, CSS |
+- Strengthening my HTML, CSS, and JavaScript fundamentals.
+- Learning how to build interfaces with React.
+- Exploring application development with Next.js.
+- Practicing Git and GitHub workflows.
+- Building and publishing projects as I learn.
 
-## My Goals
+## Featured Projects
+
+I’m currently building my portfolio of projects while learning React and Next.js. Check back soon for projects, experiments, and learning milestones.
+
+## Goals
 
 - Build and publish more personal projects.
-- Improve my JavaScript and React skills.
+- Improve my React and JavaScript skills.
 - Learn backend development and databases.
 - Contribute to open-source projects.
-- Create useful software that helps people.
-
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=R1Blmmakan&show_icons=true&theme=tokyonight" alt="GitHub Statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R1Blmmakan&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+- Create software that is useful to others.
 
 ---
 

@@ -23,7 +23,7 @@
 ## Technologies I’m Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,git,github,python" alt="HTML, CSS, JavaScript, React, Next.js, Git, GitHub, and Python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,git,github,python,laravel" alt="HTML, CSS, JavaScript, React, Next.js, Git, GitHub, Laravel and Python" />
 </p>
 
 ## Current Focus

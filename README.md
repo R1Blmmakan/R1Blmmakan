@@ -1,5 +1,4 @@
-<h1 align="center>Hello! I'm R. Wan Fikri Pricahyadi.👋<h1>
-
+<h1 align="center">Hello! I'm R. Wan Fikri Pricahyadi 👋</h1>
 
 - 🔭 I’m currently working on ...
 - 🌱 I'm currently learning React with Next.js

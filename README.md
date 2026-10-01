@@ -20,10 +20,10 @@
 - 🚀 My goal is to grow into a capable full-stack developer, and to be an entrepreneur!
 - 📫 You can reach me at **[fikripricahyadi10@gmail.com](mailto:fikripricahyadi10@gmail.com)**.
 
-## Technologies I’m Learning
+## Tech Stack Used
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,git,github,python,laravel" alt="HTML, CSS, JavaScript, React, Next.js, Git, GitHub, Laravel and Python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,git,github,python,laravel" alt="HTML, CSS, JavaScript, React, Next.js, Git, GitHub, Python and Laravel" />
 </p>
 
 ## Current Focus
